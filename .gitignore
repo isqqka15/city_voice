@@ -1,0 +1,99 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.pubspec.lock
+
+# Generated files
+GeneratedPluginRegistrant.java
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Flutter.xcframework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+ios/Runner/Generated.xcconfig
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/local.properties
+android/gradle.properties
+android/gradle-wrapper.properties
+android/.idea/
+
+# IntelliJ / Android Studio
+*.iml
+.gradle
+.idea/
+*.iws
+*.ipr
+
+# VS Code
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Build outputs
+**/build/
+**/captures/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.xcframework
+
+# Flutter generated plugin and ephemeral files
+flutter_export_environment.sh
+
+# Keep secrets out
+.env
+*.keystore
+
+# JetBrains Rider
+.idea/
+*.sln
+*.user
+*.userosscache
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+
+# Android Studio local configuration
+local.properties
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Gradle files
+.gradle/
+*/build/
+
+# Generated Java files
+**/GeneratedPluginRegistrant.*
+
+# Misc
+pubspec.lock
+
+# Large archives
+*.tar.xz
